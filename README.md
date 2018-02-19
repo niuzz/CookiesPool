@@ -1,5 +1,5 @@
-## 基于redis, Python3.6实现的可扩展cookies池
-### --->>> 内建了新浪微博模拟登录，配合云打码API完成校验码识别
+## 基于selenium, Flask, redis, Python3.6实现的可扩展cookies池
+### 内建了新浪微博模拟登录，配合云打码API完成校验码识别
 ### 基于静觅cookiesPool实现，优化了redis相关操作
 1.批量导入账号, 直接按行导入文件weibo1-20.txt内包含的账号
 ```bash
